@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "241102632366",
+    "firebase_url": "https://telegram-8da0f-default-rtdb.firebaseio.com",
+    "project_id": "telegram-8da0f",
+    "storage_bucket": "telegram-8da0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241102632366:android:b35af5b223b2d0d347843f",
+        "android_client_info": {
+          "package_name": "com.example.mvvm_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241102632366-pp79inj3nfrot3mscs3jqb3gujl1bbaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFTT1GYLGz0VskOkKp_vrw4hULXz5AsuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241102632366-pp79inj3nfrot3mscs3jqb3gujl1bbaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241102632366:android:b81a6bcba55ab34247843f",
+        "android_client_info": {
+          "package_name": "com.example.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241102632366-9jlb260q62tfo7vojj54ti1s58ct4p6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.telegram",
+            "certificate_hash": "69dce4de5b6106db551d405945ee0577bcbb8ca1"
+          }
+        },
+        {
+          "client_id": "241102632366-pp79inj3nfrot3mscs3jqb3gujl1bbaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFTT1GYLGz0VskOkKp_vrw4hULXz5AsuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241102632366-pp79inj3nfrot3mscs3jqb3gujl1bbaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
